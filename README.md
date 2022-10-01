@@ -1,4 +1,4 @@
-# Explorer-1°-Projeto
+# Explorer 1° Projeto
 
 Projeto construído durante o Curso Explorer da Rocketseat.
 
